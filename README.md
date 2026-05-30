@@ -3,6 +3,7 @@
 An end-to-end data analysis project connecting Python to the **Chinook SQLite Database** to explore retail music store data. This project utilizes structured SQL queries executed directly within a Jupyter Notebook to answer critical business questions, loading the resulting datasets into Pandas DataFrames for quick exploration and visualization.
 
 Because SQLite runs serverless and requires zero configuration, this project demonstrates an efficient approach to merging standard relational database querying (SQL) with automated Python data pipelines.
+https://roadmap.sh/projects/querying-sql-python
 
 ---
 
